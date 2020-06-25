@@ -30,4 +30,4 @@ The best prediction performance was acheived using ***Gradient Boosting Regresso
 
 * Root Mean Squared Error(RMSE): ***2447.968934551082*** 
 * Mean Absolute Error(MAE): ***1865.1781159964487*** 
-* R-Squared Score(R2 Score): ***0.9277099481978738*** 
+* R-Squared Score(R2 Score): ***0.9277099481978738** 
