@@ -26,7 +26,7 @@ The dataset contains 227 rows and 20 columns, where each row corresponds to a un
 ## Conclusion
 3 different learning regressors (Linear Regression, Random Forest, and Gradient Boosting) were tested. We acheived the best prediction performance using Gradient Boosting Regressor , followed by Random Forest Regressor, while Linear Regression achieved the worst performance of the 3. 
 
-The best prediction performance was acheived using ***Gradient Boosting Regressor*** , using all features in the dataset, and resulted in the following metrics:
+The best prediction performance was acheived using ***Gradient Boosting Regressor*** , using all features in the dataset, and achieved the following metrics:
 
 * Root Mean Squared Error(RMSE): ***2447.968934551082*** 
 * Mean Absolute Error(MAE): ***1865.1781159964487*** 
