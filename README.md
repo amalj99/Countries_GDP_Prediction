@@ -7,7 +7,7 @@ Our objective is to:
 
 ## Code and Resources used
 * Python Version: 3.7
-* Packages used: Pandas, Numpy, Matplotlib, Seaborn and Plotly
+* Packages used: Sklearn, Pandas, Numpy, Matplotlib, Seaborn and Plotly
 * Data: https://www.kaggle.com/fernandol/countries-of-the-world
 
 ## Data Description
