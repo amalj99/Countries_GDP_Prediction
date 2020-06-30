@@ -28,6 +28,6 @@ The dataset contains 227 rows and 20 columns, where each row corresponds to a un
 
 The best prediction performance was acheived using ***Gradient Boosting Regressor*** , using all features in the dataset, and achieved the following metrics:
 
-* Root Mean Squared Error(RMSE): ***2447.968934551082*** 
-* Mean Absolute Error(MAE): ***1865.1781159964487*** 
-* R-Squared Score(R2 Score): ***0.9277099481978738***
+* Root Mean Squared Error(RMSE): ***2447.96*** 
+* Mean Absolute Error(MAE): ***1865.17*** 
+* R-Squared Score(R2 Score): ***0.927***
