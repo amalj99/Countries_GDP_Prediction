@@ -1,4 +1,4 @@
-# Countries_GDP_Prediction
+# Countries GDP Prediction
 
 ## Objective
 Our objective is to:
